@@ -13,6 +13,7 @@ gem 'jquery-rails', '~> 3.0'
 gem 'bcrypt-ruby', '~> 3.0'
 gem 'unicorn', '~> 4.6'
 
+gem 'devise', '~> 3.0'
 gem 'haml', '~> 4.0'
 gem 'redcarpet', '~> 3.0'
 
