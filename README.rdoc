@@ -1,3 +1,0 @@
-# HyperGate
-
-HyperGate is a project I've started to explore extracting code to a service.
